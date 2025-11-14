@@ -1,0 +1,23 @@
+{
+  "name": "auth-api-sena",
+  "version": "1.0.0",
+  "description": "Servicio web de registro e inicio de sesión para evidencia GA7-220501096-AA5-EV01",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": [
+    "api",
+    "auth",
+    "sena",
+    "node",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
