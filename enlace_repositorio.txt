@@ -1,5 +1,5 @@
 Repositorio del servicio de autenticación (API REST) - Evidencia GA7-220501096-AA5-EV01
-URL: https://github.com/TUUSUARIO/TUREPOSITORIO   (reemplazar por el enlace real)
-Aprendiz: NOMBRE APELLIDO                         (reemplazar)
-Ficha: NUMERO_FICHA                               (reemplazar)
+URL: https://github.com/TUUSUARIO/TUREPOSITORIO   https://github.com/PretellDavid/Auth_API_SENA/commit/a575f8e84a632e43432af4a8834b7b80ddee8fab
+Aprendiz: DAVID PARRA
+Ficha: 2977444
 Evidencia: GA7-220501096-AA5-EV01

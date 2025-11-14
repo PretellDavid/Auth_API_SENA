@@ -79,15 +79,3 @@ Incluye:
 - Estructura simple que se puede versionar con Git/GitHub.
 - Archivo "enlace_repositorio.txt" para registrar el URL del repositorio.
 
-Pasos sugeridos para la evidencia:
-1. Crear un repositorio en GitHub con este proyecto.
-2. Actualizar el archivo enlace_repositorio.txt con:
-   - URL del repositorio.
-   - Nombre del aprendiz.
-   - Número de ficha.
-   - Código de la evidencia.
-3. Comprimir la carpeta del proyecto con el nombre:
-   NOMBRE_APELLIDO_AA5_EV01.zip
-
-   Ejemplo:
-   PRETELL_DAVID_AA5_EV01.zip
